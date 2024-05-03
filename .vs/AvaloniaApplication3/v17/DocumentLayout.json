@@ -1,0 +1,202 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\prdb\\Desktop\\new\\AvaloniaApplication3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0086E171-CF19-4698-BA75-87ABCD79B0E3}|AvaloniaApplication3\\AvaloniaApplication3.csproj|C:\\Users\\prdb\\Desktop\\new\\AvaloniaApplication3\\avaloniaapplication3\\product_list.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0086E171-CF19-4698-BA75-87ABCD79B0E3}|AvaloniaApplication3\\AvaloniaApplication3.csproj|solutionrelative:avaloniaapplication3\\product_list.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0086E171-CF19-4698-BA75-87ABCD79B0E3}|AvaloniaApplication3\\AvaloniaApplication3.csproj|C:\\Users\\prdb\\Desktop\\new\\AvaloniaApplication3\\avaloniaapplication3\\sale.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0086E171-CF19-4698-BA75-87ABCD79B0E3}|AvaloniaApplication3\\AvaloniaApplication3.csproj|solutionrelative:avaloniaapplication3\\sale.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0086E171-CF19-4698-BA75-87ABCD79B0E3}|AvaloniaApplication3\\AvaloniaApplication3.csproj|c:\\users\\prdb\\desktop\\new\\avaloniaapplication3\\avaloniaapplication3\\product_list.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{0086E171-CF19-4698-BA75-87ABCD79B0E3}|AvaloniaApplication3\\AvaloniaApplication3.csproj|solutionrelative:avaloniaapplication3\\product_list.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0086E171-CF19-4698-BA75-87ABCD79B0E3}|AvaloniaApplication3\\AvaloniaApplication3.csproj|C:\\Users\\prdb\\Desktop\\new\\AvaloniaApplication3\\avaloniaapplication3\\basket.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0086E171-CF19-4698-BA75-87ABCD79B0E3}|AvaloniaApplication3\\AvaloniaApplication3.csproj|solutionrelative:avaloniaapplication3\\basket.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0086E171-CF19-4698-BA75-87ABCD79B0E3}|AvaloniaApplication3\\AvaloniaApplication3.csproj|C:\\Users\\prdb\\Desktop\\new\\AvaloniaApplication3\\avaloniaapplication3\\basket.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{0086E171-CF19-4698-BA75-87ABCD79B0E3}|AvaloniaApplication3\\AvaloniaApplication3.csproj|solutionrelative:avaloniaapplication3\\basket.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0086E171-CF19-4698-BA75-87ABCD79B0E3}|AvaloniaApplication3\\AvaloniaApplication3.csproj|C:\\Users\\prdb\\Desktop\\new\\AvaloniaApplication3\\avaloniaapplication3\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0086E171-CF19-4698-BA75-87ABCD79B0E3}|AvaloniaApplication3\\AvaloniaApplication3.csproj|solutionrelative:avaloniaapplication3\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0086E171-CF19-4698-BA75-87ABCD79B0E3}|AvaloniaApplication3\\AvaloniaApplication3.csproj|C:\\Users\\prdb\\Desktop\\new\\AvaloniaApplication3\\avaloniaapplication3\\sale.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{0086E171-CF19-4698-BA75-87ABCD79B0E3}|AvaloniaApplication3\\AvaloniaApplication3.csproj|solutionrelative:avaloniaapplication3\\sale.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0086E171-CF19-4698-BA75-87ABCD79B0E3}|AvaloniaApplication3\\AvaloniaApplication3.csproj|C:\\Users\\prdb\\Desktop\\new\\AvaloniaApplication3\\avaloniaapplication3\\captcha.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{0086E171-CF19-4698-BA75-87ABCD79B0E3}|AvaloniaApplication3\\AvaloniaApplication3.csproj|solutionrelative:avaloniaapplication3\\captcha.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0086E171-CF19-4698-BA75-87ABCD79B0E3}|AvaloniaApplication3\\AvaloniaApplication3.csproj|C:\\Users\\prdb\\Desktop\\new\\AvaloniaApplication3\\avaloniaapplication3\\captcha.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0086E171-CF19-4698-BA75-87ABCD79B0E3}|AvaloniaApplication3\\AvaloniaApplication3.csproj|solutionrelative:avaloniaapplication3\\captcha.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0086E171-CF19-4698-BA75-87ABCD79B0E3}|AvaloniaApplication3\\AvaloniaApplication3.csproj|C:\\Users\\prdb\\Desktop\\new\\AvaloniaApplication3\\avaloniaapplication3\\mainwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{0086E171-CF19-4698-BA75-87ABCD79B0E3}|AvaloniaApplication3\\AvaloniaApplication3.csproj|solutionrelative:avaloniaapplication3\\mainwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0086E171-CF19-4698-BA75-87ABCD79B0E3}|AvaloniaApplication3\\AvaloniaApplication3.csproj|C:\\Users\\prdb\\Desktop\\new\\AvaloniaApplication3\\avaloniaapplication3\\mainwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0086E171-CF19-4698-BA75-87ABCD79B0E3}|AvaloniaApplication3\\AvaloniaApplication3.csproj|solutionrelative:avaloniaapplication3\\mainwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 146,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Basket.axaml",
+              "DocumentMoniker": "C:\\Users\\prdb\\Desktop\\new\\AvaloniaApplication3\\AvaloniaApplication3\\Basket.axaml",
+              "RelativeDocumentMoniker": "AvaloniaApplication3\\Basket.axaml",
+              "ToolTip": "C:\\Users\\prdb\\Desktop\\new\\AvaloniaApplication3\\AvaloniaApplication3\\Basket.axaml",
+              "RelativeToolTip": "AvaloniaApplication3\\Basket.axaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-18T12:20:15.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Basket.axaml.cs",
+              "DocumentMoniker": "C:\\Users\\prdb\\Desktop\\new\\AvaloniaApplication3\\AvaloniaApplication3\\Basket.axaml.cs",
+              "RelativeDocumentMoniker": "AvaloniaApplication3\\Basket.axaml.cs",
+              "ToolTip": "C:\\Users\\prdb\\Desktop\\new\\AvaloniaApplication3\\AvaloniaApplication3\\Basket.axaml.cs",
+              "RelativeToolTip": "AvaloniaApplication3\\Basket.axaml.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAcwCkAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T12:20:15.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Captcha.axaml",
+              "DocumentMoniker": "C:\\Users\\prdb\\Desktop\\new\\AvaloniaApplication3\\AvaloniaApplication3\\Captcha.axaml",
+              "RelativeDocumentMoniker": "AvaloniaApplication3\\Captcha.axaml",
+              "ToolTip": "C:\\Users\\prdb\\Desktop\\new\\AvaloniaApplication3\\AvaloniaApplication3\\Captcha.axaml",
+              "RelativeToolTip": "AvaloniaApplication3\\Captcha.axaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-18T10:25:47.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Sale.axaml",
+              "DocumentMoniker": "C:\\Users\\prdb\\Desktop\\new\\AvaloniaApplication3\\AvaloniaApplication3\\Sale.axaml",
+              "RelativeDocumentMoniker": "AvaloniaApplication3\\Sale.axaml",
+              "ToolTip": "C:\\Users\\prdb\\Desktop\\new\\AvaloniaApplication3\\AvaloniaApplication3\\Sale.axaml",
+              "RelativeToolTip": "AvaloniaApplication3\\Sale.axaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-18T11:57:03.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Sale.axaml.cs",
+              "DocumentMoniker": "C:\\Users\\prdb\\Desktop\\new\\AvaloniaApplication3\\AvaloniaApplication3\\Sale.axaml.cs",
+              "RelativeDocumentMoniker": "AvaloniaApplication3\\Sale.axaml.cs",
+              "ToolTip": "C:\\Users\\prdb\\Desktop\\new\\AvaloniaApplication3\\AvaloniaApplication3\\Sale.axaml.cs",
+              "RelativeToolTip": "AvaloniaApplication3\\Sale.axaml.cs",
+              "ViewState": "AQIAAO0AAAAAAAAAAAAQwOUAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T11:57:03.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\prdb\\Desktop\\new\\AvaloniaApplication3\\AvaloniaApplication3\\Product.cs",
+              "RelativeDocumentMoniker": "AvaloniaApplication3\\Product.cs",
+              "ToolTip": "C:\\Users\\prdb\\Desktop\\new\\AvaloniaApplication3\\AvaloniaApplication3\\Product.cs",
+              "RelativeToolTip": "AvaloniaApplication3\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T11:17:35.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Product_list.axaml.cs",
+              "DocumentMoniker": "C:\\Users\\prdb\\Desktop\\new\\AvaloniaApplication3\\AvaloniaApplication3\\Product_list.axaml.cs",
+              "RelativeDocumentMoniker": "AvaloniaApplication3\\Product_list.axaml.cs",
+              "ToolTip": "C:\\Users\\prdb\\Desktop\\new\\AvaloniaApplication3\\AvaloniaApplication3\\Product_list.axaml.cs",
+              "RelativeToolTip": "AvaloniaApplication3\\Product_list.axaml.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAwwEoAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T11:12:33.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Captcha.axaml.cs",
+              "DocumentMoniker": "C:\\Users\\prdb\\Desktop\\new\\AvaloniaApplication3\\AvaloniaApplication3\\Captcha.axaml.cs",
+              "RelativeDocumentMoniker": "AvaloniaApplication3\\Captcha.axaml.cs",
+              "ToolTip": "C:\\Users\\prdb\\Desktop\\new\\AvaloniaApplication3\\AvaloniaApplication3\\Captcha.axaml.cs",
+              "RelativeToolTip": "AvaloniaApplication3\\Captcha.axaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T10:25:47.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainWindow.axaml",
+              "DocumentMoniker": "C:\\Users\\prdb\\Desktop\\new\\AvaloniaApplication3\\AvaloniaApplication3\\MainWindow.axaml",
+              "RelativeDocumentMoniker": "AvaloniaApplication3\\MainWindow.axaml",
+              "ToolTip": "C:\\Users\\prdb\\Desktop\\new\\AvaloniaApplication3\\AvaloniaApplication3\\MainWindow.axaml",
+              "RelativeToolTip": "AvaloniaApplication3\\MainWindow.axaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-18T10:05:52.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product_list.axaml",
+              "DocumentMoniker": "C:\\Users\\prdb\\Desktop\\new\\AvaloniaApplication3\\AvaloniaApplication3\\Product_list.axaml",
+              "RelativeDocumentMoniker": "AvaloniaApplication3\\Product_list.axaml",
+              "ToolTip": "C:\\Users\\prdb\\Desktop\\new\\AvaloniaApplication3\\AvaloniaApplication3\\Product_list.axaml",
+              "RelativeToolTip": "AvaloniaApplication3\\Product_list.axaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-18T11:12:33.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainWindow.axaml.cs",
+              "DocumentMoniker": "C:\\Users\\prdb\\Desktop\\new\\AvaloniaApplication3\\AvaloniaApplication3\\MainWindow.axaml.cs",
+              "RelativeDocumentMoniker": "AvaloniaApplication3\\MainWindow.axaml.cs",
+              "ToolTip": "C:\\Users\\prdb\\Desktop\\new\\AvaloniaApplication3\\AvaloniaApplication3\\MainWindow.axaml.cs",
+              "RelativeToolTip": "AvaloniaApplication3\\MainWindow.axaml.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowCgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T10:05:50.842Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
