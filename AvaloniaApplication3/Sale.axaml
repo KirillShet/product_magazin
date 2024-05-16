@@ -13,8 +13,8 @@
 		<TextBox Name="prodName" Grid.Row="2" Height="20" Watermark="Введите название товара"/>
 		<TextBox Name="description" Grid.Row="3" Height="20" Watermark="Введите описание товара"/>
 		<TextBox Name="manufacturer" Grid.Row="4" Height="20" Watermark="Введите производителя"/>
+		<TextBox Name="priceName" Grid.Row="5" Height="20" Watermark="Введите цена товара"/>
 		<TextBox Name="quantity" Grid.Row="6" Height="20" Watermark="Введите количество товара"/>
-		<TextBox Name="priceName" Grid.Row="5" Height="20" Watermark="Введите цена товара"/>	
 		<Button Name="dobav" Content="Добавить" Click="ButtonPressed1" Grid.Row="7"/>
 		<Button Name="zamena" Content="Изменить" Click="EditB" Grid.Row="7"/>
 		<Button Name="oplicate" Content="Добавить картинку" Click="Pict"  Grid.Row="7" Margin="100, 0, 0, 0"/>

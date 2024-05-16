@@ -2,6 +2,7 @@ using System.Collections.Generic;
 using System.Linq;
 using Avalonia;
 using Avalonia.Controls;
+using Avalonia.Input;
 using Avalonia.Interactivity;
 using static System.Runtime.InteropServices.JavaScript.JSType;
 
@@ -19,6 +20,8 @@ public partial class Product_list : Window
     List<Product> kolich = new List<Product>();
     int help = 0;
     int i = 0;
+    int currentPage = 0;
+    string s;
     int izmen = 0;
     public Product_list()
     {
@@ -164,9 +167,61 @@ public Product_list(List<Product> names, List<Product> valuesTwo)
         new Sale(editProd, productsName, values, proisvName, opisName, kolich, izmen).Show();
         Close();
     }
-    public void Sort(object sender, RoutedEventArgs args)
+    public void SearchList(object? sender, KeyEventArgs e)
     {
-        
+        Sear();
     }
+    public void UpdateList()
+    {
+        int startIndex = currentPage * 2;
+        start.ItemsSource = productsName.Skip(startIndex).Take(2).ToList();
+    }
+    public void Sear()
+    {
 
+        s = poisk.Text;
+        foreach (Product chg in productsName)
+        {
+            if (chg.NameV == s)
+            {
+                i++;
+                start.ItemsSource = productsName.Skip(productsName.IndexOf(chg)).Take(1).ToList();
+            }
+        }
+        if (i == 0)
+        {
+            UpdateList();
+        }
+        i = 0;
+    }
+    public void Sortupp(object sender, RoutedEventArgs e)
+    {
+        productsName.Sort((x, y) => x.PriceV.CompareTo(y.PriceV));
+        foreach (Product chg in productsName)
+        {
+            chg.edit = productsName.IndexOf(chg);
+            chg.del = productsName.IndexOf(chg);
+        }
+        UpdateList();
+    }
+    public void sortdown(object sender, RoutedEventArgs e)
+    {
+        productsName.Sort((x, y) => y.PriceV.CompareTo(x.PriceV));
+        foreach (Product chg in productsName)
+        {
+            chg.edit = productsName.IndexOf(chg);
+            chg.del = productsName.IndexOf(chg);
+        }
+        UpdateList();
+    }
+    public void SortAlf(object sender, RoutedEventArgs e)
+    {
+        productsName.Sort((x, y) => x.NameV.CompareTo(y.NameV));
+        foreach (Product chg in productsName)
+        {
+            chg.edit = productsName.IndexOf(chg);
+            chg.del = productsName.IndexOf(chg);
+        }
+        UpdateList();
+    }
 }
